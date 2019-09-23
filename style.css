@@ -1,0 +1,27 @@
+th {
+	border: 1px;padding: 2em;background-color: lightgray;text-align:center;
+}
+td {
+	border: 1px;padding: 2em;background-color: gray;text-align:center;
+}
+a {
+	color: white;
+}
+.h {
+	color: green;background-color: ed593a;cursor: pointer;
+}
+.one {
+	background-color: b147bb;cursor: pointer;
+}
+.two {
+	background-color: 2ba8c6;cursor: pointer;
+}
+.three {
+	background-color: dad70a;cursor: pointer;
+}
+@media (hover: hover) {
+  a:hover {
+    background: green;
+    cursor:pointer;
+  }
+}
